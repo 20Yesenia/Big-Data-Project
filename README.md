@@ -1,5 +1,6 @@
 # Big-Data-Project
 Author-Yesenia P.
+
 This is the data comparison of how many people search up tattoos vs plastic surgery over a period of 14 years. 
 
 I choose this area to researcher because I feel like tattoos and plastic surgery are still considered taboo today. I hope to show that there are many people searching these up and therefore they should be more normalizes. I am also fascinated by tattoos and their different styles and feel like plastic surgery is sometimes viewed negatively like tattoos are. 
