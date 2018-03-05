@@ -15,5 +15,15 @@ A tattoo is a form of body modification , where a design is made by inserting in
 
 > Why do people get them?
 
+
+# Investigation
+
 First I feel like it's important to understand what tattoos and plastic surgery are before understanding the reasons for these questions. Then comes the obvious question of "Which one is more popular?" Internet search wise. Lastly I incorporated some commonly asked questions like "Why do people get them?" This I feel is always the first question asked to a person who has these body modifications.
 
+
+Because of the accessibility to google trends it was relatively easy to determine a pattern within the data. Mostly being because the data was already transformed into a graph without needing to filter out anything. 
+
+
+# Explanation of Peer Review
+
+Since I was working alone in making this website I had to learn to schedule different times to work on separate sections of the site. Once I knew what I wanted to do I started coming up with the questions and then moved on to whatever else I could start on. After I was done with the bones of the site I went back to answer the questions. Once everything was answered I went back to make the overall site look nice.
