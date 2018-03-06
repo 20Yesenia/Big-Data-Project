@@ -9,6 +9,9 @@ I choose this area to researcher because I feel like tattoos and plastic surgery
 
 A tattoo is a form of body modification , where a design is made by inserting ink, dyes and pigments,into a layer of the skin to change the pigment. While in the words of the english dictionary plastic surgery is "the process of reconstructing or repairing parts of the body"
 
+
+> ![enter image description here](https://lh3.googleusercontent.com/AOa4rET_2ndVs2UkiOYO4z2MwfDYVAlYU57HKeMEd5Vb4_HwcYzgNZdhaKDW3uqGPr_5UGiSKcI "Graph")
+
 > What are people most interested in?
 
 > How many of the people who search up plastic surgery and tattoos actually get them?
