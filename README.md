@@ -5,6 +5,9 @@ This is the data comparison of how many people search up tattoos vs plastic surg
 
 I choose this area to researcher because I feel like tattoos and plastic surgery are still considered taboo today. I hope to show that there are many people searching these up and therefore they should be more normalizes. I am also fascinated by tattoos and their different styles and feel like plastic surgery is sometimes viewed negatively like tattoos are. 
 
+
+> ![enter image description here](https://lh3.googleusercontent.com/7LOEeTEcX3HmgrtDivIV4LjZuV4ronAK6f26QbH7hR0JEbJEXN0NfFz-CoRCVE4X3U6wa0HcRbg "Tattoo")
+
 > What are they?
 
 A tattoo is a form of body modification , where a design is made by inserting ink, dyes and pigments,into a layer of the skin to change the pigment. While in the words of the english dictionary plastic surgery is "the process of reconstructing or repairing parts of the body"
