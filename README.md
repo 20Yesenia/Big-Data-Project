@@ -17,6 +17,8 @@ A tattoo is a form of body modification , where a design is made by inserting in
 
 > What are people most interested in?
 
+The picture above shows the difference in people's most searched topic between tattoos and plastic surgery. According to Google trends, tattoos are searched up more often than plastic surgery. By looks alone it is easy to tell that they have a difference of 20 to more than 70 at times, with tattoos being at the top.
+
 > ![enter image description here](https://lh3.googleusercontent.com/rSfmHDC7-2ExnuAAPQ1xZ-Z1tW0k0jLMJDK-ugA0Ir8DsxR3J72klayoEgpdFIUtOb2Rd3NcCaA "2016Graph")
 
 > How many of the people who search up plastic surgery and tattoos actually get them?
