@@ -17,9 +17,9 @@ A tattoo is a form of body modification , where a design is made by inserting in
 
 > What are people most interested in?
 
-> How many of the people who search up plastic surgery and tattoos actually get them?
+> ![enter image description here](https://lh3.googleusercontent.com/rSfmHDC7-2ExnuAAPQ1xZ-Z1tW0k0jLMJDK-ugA0Ir8DsxR3J72klayoEgpdFIUtOb2Rd3NcCaA "2016Graph")
 
-> Why do people get them?
+> How many of the people who search up plastic surgery and tattoos actually get them?
 
 
 # Investigation
