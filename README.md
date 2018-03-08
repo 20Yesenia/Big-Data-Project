@@ -23,6 +23,10 @@ The picture above shows the difference in people's most searched topic between t
 
 > How many of the people who search up plastic surgery and tattoos actually get them?
 
+In the first graph it shows how many people searched up tattoos and platic surgery as of 2016 in the United States. Underneath is how many people actually have these in the United States as of that same year.
+
+According to studies from 2016 45,000,000 million Americans have at least one tattoo while 17,192,816 million have gotten plastic surgery as of 2016.
+
 
 # Investigation
 
