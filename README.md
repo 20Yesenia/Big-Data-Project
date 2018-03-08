@@ -40,7 +40,7 @@ Since both of these have proven to be very well liked it is safe to say that pro
 First I feel like it's important to understand what tattoos and plastic surgery are before understanding the reasons for these questions. Then comes the obvious question of "Which one is more popular?" Internet search wise. Lastly I incorporated some commonly asked questions like "Why do people get them?" This I feel is always the first question asked to a person who has these body modifications.
 
 
-Because of the accessibility to google trends it was relatively easy to determine a pattern within the data. Mostly being because the data was already transformed into a graph without needing to filter out anything. In order to be more specific I did need to focus on the data of one specific year. 
+Because of the accessibility to google trends it was relatively easy to determine a pattern within the data. Mostly being because the data was already transformed into a graph without needing to filter out anything. In order to be more specific I did need to focus on the data of one specific year. This forced me to do some independant research and convert the data to a graph.
 
 
 # Explanation of Peer Review
