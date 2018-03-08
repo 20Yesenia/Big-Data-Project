@@ -21,6 +21,8 @@ The picture above shows the difference in people's most searched topic between t
 
 > ![enter image description here](https://lh3.googleusercontent.com/rSfmHDC7-2ExnuAAPQ1xZ-Z1tW0k0jLMJDK-ugA0Ir8DsxR3J72klayoEgpdFIUtOb2Rd3NcCaA "2016Graph")
 
+> ![enter image description here](https://lh3.googleusercontent.com/kt11Y4Gq3TrhxCPDqYV2flkHR3Qg5fLCW9VqI5vG-Bu85ZO4UMWxXG_mGL1fcSBztttgRvxD_PQ "2016Statistics")
+
 > How many of the people who search up plastic surgery and tattoos actually get them?
 
 In the first graph it shows how many people searched up tattoos and platic surgery as of 2016 in the United States. Underneath is how many people actually have these in the United States as of that same year.
