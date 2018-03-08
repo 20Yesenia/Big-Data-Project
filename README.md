@@ -30,6 +30,9 @@ In the first graph it shows how many people searched up tattoos and platic surge
 According to studies from 2016 45,000,000 million Americans have at least one tattoo while 17,192,816 million have gotten plastic surgery as of 2016.
 
 > OUR PROPOSAL TO COMPANIES
+
+> ![enter image description here](https://lh3.googleusercontent.com/rRGzRMfrx3tX7NbKp2uTYoYv7rfXf6VDFZt5MUAkWVsvwXWq47TQN5ehDWeWw3_AM7xZQThJ2eQ "WhereMostSearched")
+
 Since both of these have proven to be very well liked it is safe to say that profit from this profesion is guaranteed. Above I have provided some poctures of where these terms were most searched for. With highdemand all around the world, your business is sure to flourish.
 
 
